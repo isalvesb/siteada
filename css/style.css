@@ -1,100 +1,115 @@
-body{
-    text-align: center;
-    font-family: Open Sans, sans-serif;
-    background-color: #8A71C9;
-    color: #ffffff;
-    margin: 0%
-    margin: 0px 0px 30px 0px;
-  }
-  
-  h1{
-    font-size: 60px;
-    font-weight: 300;
-  }
-  
-  h2{
-    color: #2a0074;
-    font-size: 40px;
-  }
-  
-  h3{
-    font-size: 22px;
-    font-style: italic;
-  }
-  
-  p{
-    line-height: 1.5;
-    font-size: 20px;
-  }
-  
-  img{
-    width: 100%;
-  }
-  
-  .titulo-verde{
-    color: #04ff9f;
-  }
-  
-  .titulo-vermelho{
-    color: #FF9E9E;
-  }
-  
-  .titulo-amarelo{
-    color: #ffe36d;
-  }
-  
-  section{
-    width: 60%;
-    margin: 0 auto;
-  }
-  
-  section section{
-    width: 100%;
-  }
-  
-  ul{
-    list-style-type:none;
-    line-height:2;
-    padding-left:0;
-  }
-  
-  a{
-    text-decoration: none;
-    color: #99ffff;
-    font-weight: 700;
-  }
-  
-  .principal{
-    background: #ff6cb5;
-    height: 40px;
-    max-width: 60%;
-    margin: 0 auto;
-  }
-    
-  .principal ul li a{
-    color: white;
-    text-decoration: underline;
-    font-weight: normal;
-  }
-  
-  .principal li{
-    display: inline-block;
-    line-height: 2.3;
-    margin: 0 89px;
-  }
-  
-  button{
-    background-color: #41f341;
-    border: 1px solid transparent;
-    padding: 2px 20px;
-    border-radius: 3px;
-  }
-  
-  a:visited{
-    color:  #C8A2C8;
-  }
-  
-  a:hover{
-    color: #2a0074;
-    font-style: italic;
-  }
+body {
+  text-align: center;
+  font-family: Open Sans, sans-serif;
+  background-color: #fff;
+  color: #000;
+  margin: 0px 0px 30px 0px;
+}
+
+h1 {
+  font-size: 60px;
+  font-weight: 700;
+  color: #563c5c;
+}
+
+h2 {
+  color: #c69fd5;
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+p {
+  line-height: 1.5;
+  font-size: 20px;
+}
+
+img {
+  width: 100%;
+  border-radius: 12px;
+}
+
+.titulo-verde {
+  color: #c69fd5;
+}
+
+.titulo-vermelho {
+  color: #c69fd5;
+}
+
+.titulo-amarelo {
+  color: #c69fd5;
+}
+
+section {
+  width: 60%;
+  margin: 0 auto;
+}
+
+section section {
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  line-height: 2;
+  padding-left: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #c69fd5;
+  font-weight: 700;
+  font-size: 1.25rem;
+}
+
+.principal {
+  background: #563c5c;
+  height: 50px;
+  max-width: 90%;
+  margin: 0 auto 150px;
+  border-radius: 12px;
+}
+
+.principal ul li a {
+  color: white;
+  font-size: 1.5rem;
+  text-align: center;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.principal li {
+  display: inline-block;
+  line-height: 2.3;
+  margin: 0 89px;
+}
+
+h4 {
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+input {
+  border-radius: 8px;
+}
+
+button {
+  background-color: #563c5c;
+  border: 1px solid transparent;
+  padding: 2px 20px;
+  border-radius: 10px;
+  color: white;
+}
+
+a:visited {
+  color: #c8a2c8;
+}
+
+a:hover {
+  color: #2a0074;
+  font-style: italic;
+}
