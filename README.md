@@ -22,5 +22,5 @@ Este projeto foi criado como parte de uma iniciativa educacional da PrograMaria,
 
 
 ## 👩‍🏫Ministrado por
-[![Programaria](https://img.shields.io/badge/Programaria-800080?style=flat-rounded&logo=google-chrome&logoColor=white)](https://www.programaria.org)
+[![Programaria](https://img.shields.io/badge/Programaria-8a71c9?style=flat-rounded&logo=google-chrome&logoColor=white)](https://www.programaria.org)
 
